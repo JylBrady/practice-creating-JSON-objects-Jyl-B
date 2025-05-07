@@ -1,12 +1,22 @@
-[
-	"Movie Title", {
-		"Year": 1996,
-		"isAvailable": false,
-		"genre": ["genreA", "genreB", "genreC"],
+
+
+{
+	"Trust":  {
+		"Year": 1990,
+		"isAvailable": true,
+		"genre": ["Drama", "Crime", "Dark Comedy"],
 		"cast":  {
-			"actor": "name",
-			"role": "lead"
+			"actor": "Adrienne Shelly",
+			"role": "Maria Coughlin (Lead)"
+		},
+		{
+			"actor": "Martin Donovan",
+			"role": "Mathew Slaughter (Lead)"
+		},
+		{
+			"actor": "Edie Falco",
+			"role": "Peg Coughlin (supporting)"
 		}
 	}
-]
+}
 
