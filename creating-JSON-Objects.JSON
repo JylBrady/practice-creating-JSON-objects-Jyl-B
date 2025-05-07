@@ -1,0 +1,12 @@
+[
+	"Movie Title", {
+		"Year": 1996,
+		"isAvailable": false,
+		"genre": ["genreA", "genreB", "genreC"],
+		"cast":  {
+			"actor": "name",
+			"role": "lead"
+		}
+	}
+]
+
